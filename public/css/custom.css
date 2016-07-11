@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lato';
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+.buffer-top-10{
+    margin-top:10px;
+}
+
+.buffer-bottom-10{
+    margin-bottom:10px;
+}
+
+.centered {
+    text-align: center;
+}
